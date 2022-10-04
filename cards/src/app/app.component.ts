@@ -24,10 +24,10 @@ export class AppComponent {
       content: 'lets go to the moutain'
     },
     {
-      title:' mountaion bicking',
-      imageUrl:'assets/bicking.jpeg',
-      username: 'bicking man',
-      content: 'let us go bicking'
+      title:' mountain biking',
+      imageUrl:'assets/biking.jpeg',
+      username: 'biking man',
+      content: 'let us go biking'
     }
   ];
 }
